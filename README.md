@@ -45,6 +45,7 @@ Passo a passo para realizar a análise de sentimentos:
 
 4.4. Insira seu input e acompanhe a análise de sentimentos
 
+
 A análise de sentimentos é um recurso interessante porque permite interpretar emoções e opiniões expressas em textos de forma automatizada.
 
 
