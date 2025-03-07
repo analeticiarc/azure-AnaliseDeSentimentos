@@ -8,10 +8,13 @@ Passo a passo para realizar a tanscrição do aúdio.
 2. Realizar o Login com seu e-mail e senha
    
 3. Ir na opção "Conversão de fala em texto" 
+
 3.1. Selecionar a opção "Conversão de fala em texto em tempo real"
   
 4. Criar uma Conversão de fala em texto em tempo real 
+
 4.1. Selecionar o idioma do aúdio 
+
 4.2. Importar o aúdio ou gravar aúdio com microfone
    
 5. Analisar o resultado
